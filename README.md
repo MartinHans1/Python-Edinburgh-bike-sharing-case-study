@@ -14,10 +14,10 @@ The first part of the project deals mainly with the following points:
     
 # Project details (2nd part - analysis of bikesharing demand):
 The second part of the project deals mainly with the following points:
-    * Viewing the development of the demand for bicycle rental over time
-    * Identifying the causes of demand fluctuations
-    * Finding out the effect of weather on the demand for bicycles
-    * Do people rent bikes more on weekends than during the working week?
+   * Viewing the development of the demand for bicycle rental over time
+   * Identifying the causes of demand fluctuations
+   * Finding out the effect of weather on the demand for bicycles
+   * Do people rent bikes more on weekends than during the working week?
    
 # Project Summary:
 All research questions were answered. I have identified that an average bike rental takes approx. 32 minutes and 30 seconds. On the other hand, the shortest loan lasted about one minute while the longest 39389 minutes. An interesting finding was also that from March till October 2020 there was the biggest demand for bikesharing which was caused by the lowest monthly precipation from the observed period. From the analysis of the influence of the weather on the demand for bicycles, it is clear that with increasing real and sensory temperature and with increasing air pressure, the demand increases. Similarly, with declining wind and gust speeds, with declining rainfall, humidity and cloud cover, demand is also rising. People in Edinburgh prefer bike rentals in weekdays over weekends and the biggest demand for rentals is between 12 and 17 PM.
